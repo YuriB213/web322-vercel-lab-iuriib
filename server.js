@@ -10,7 +10,7 @@ const app = express();
 const HTTP_PORT = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
-    res.send(`Iurii Buzynnik WEB322 ${new Date().toISOString()}`);
+    res.send(`Yuri Buzynnik WEB322 ${new Date().toISOString()}`);
 });
 
 app.listen(HTTP_PORT, () => {
