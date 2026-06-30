@@ -1,5 +1,0 @@
-GitHub:
-https://github.com/YuriB213/web322-vercel-lab-iuriib
-
-Vercel:
-https://web322-vercel-lab-iuriib.vercel.app/
